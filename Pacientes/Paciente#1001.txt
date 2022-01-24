@@ -1,0 +1,8 @@
+Datos personales:
+
+Nombre:
+Apellido:
+Fecha de nacimiento:
+Obra social:
+Telefono:
+Email:
