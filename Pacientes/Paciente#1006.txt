@@ -1,6 +1,7 @@
-Datos personales:
+Datos personales: 
 
 Nombre:
 Apellido: 
-Obra social:
 Fecha de nacimiento:
+Obra social:
+
